@@ -1,0 +1,22 @@
+{
+  "name": "product-activation",
+  "version": "1.0.0",
+  "description": "A product activation program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChungmanCheng/Product-Activation.git"
+  },
+  "author": "Chung Man Cheng",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ChungmanCheng/Product-Activation/issues"
+  },
+  "homepage": "https://github.com/ChungmanCheng/Product-Activation#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
